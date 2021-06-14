@@ -1,6 +1,6 @@
 <h2> <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="45"> 𝐇𝐞y, I am Naman Jain <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-<p>Hi, I am Naman Jain from Guwahati, India. Currently pursuing my B.Tech from SRMIST,Chennai.  </p>
+<p>Hi, I am Naman Jain from Guwahati, India. Currently pursuing my B.Tech in CSE from SRMIST,Chennai. I am passionate developer currently developing mobile applications with Flutter. </p>
 
 ## Find me here: <img src="https://user-images.githubusercontent.com/53649201/99296951-8ef68900-286d-11eb-9bf3-fdb6cf13b585.gif" height="32px" style="padding-top: 50px;">
 
